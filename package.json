@@ -1,0 +1,19 @@
+{
+  "name": "email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "epress": "^0.0.1-security",
+    "joi": "^17.6.0",
+    "mongoose": "^6.6.1",
+    "nodemailer": "^6.7.8"
+  }
+}
